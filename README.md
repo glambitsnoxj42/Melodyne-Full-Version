@@ -245,3 +245,6 @@ This repository serves as the official landing page for Melodyne. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Melodyne today!**
+
+---
+**Last updated:** 2026-09-10 12:45:20 UTC
