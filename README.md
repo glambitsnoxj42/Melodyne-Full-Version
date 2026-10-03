@@ -247,4 +247,4 @@ This repository serves as the official landing page for Melodyne. The software i
 **Get the most recent version of Melodyne today!**
 
 ---
-**Last updated:** 2026-10-03 06:06:58 UTC
+**Last updated:** 2026-10-03 12:17:01 UTC
